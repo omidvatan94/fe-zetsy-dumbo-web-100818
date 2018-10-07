@@ -17,4 +17,21 @@ body {
 	padding: 0 45px 20px;
 }
 
+.grey {
+  padding: 5px;
+  margin: 0 auto;
+  background: rgb(204,204,204);
+}
+
+#mint {
+    padding: 5px;
+  margin: 0 auto;
+  background: rgb(146,	175,	167	);
+}
+
+
+h1, h2{
+  color: rgb(146,	175,	167	);
+}
+
 /* Write all remaining styles here */
